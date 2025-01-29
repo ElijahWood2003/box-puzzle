@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_ini_comparison_cleanup",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_ini_comparison_cleanup",
+  "parent":{
+    "name":"Cleanup",
+    "path":"folders/Scripts/Cleanup.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

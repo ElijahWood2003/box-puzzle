@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_push_add_move",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_push_add_move",
+  "parent":{
+    "name":"Reversing",
+    "path":"folders/Scripts/Reversing.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

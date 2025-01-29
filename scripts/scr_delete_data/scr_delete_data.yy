@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_delete_data",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_delete_data",
+  "parent":{
+    "name":"Serialization",
+    "path":"folders/Scripts/Serialization.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

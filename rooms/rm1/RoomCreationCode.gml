@@ -1,0 +1,1 @@
+obj_draw.ini_moves = 1000;

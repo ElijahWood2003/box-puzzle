@@ -1,0 +1,306 @@
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\scripts\scr_check_level_end\scr_check_level_end.gml
+Converted description /// @description  scr_check_level_end() - returns true if the player is properly on top of the obj_win blocks, false otherwise
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\scripts\scr_flip\scr_flip.gml
+Converted description /// @description  scr_flip(list)/// @param list
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\scripts\scr_check_wall\scr_check_wall.gml
+Converted description /// @description  scr_check_wall()
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\scripts\scr_cleanup\scr_cleanup.gml
+Converted description /// @description  scr_cleanup
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\scripts\scr_box_color_cleanup1\scr_box_color_cleanup1.gml
+Converted description /// @description  scr_box_color_cleanup1() - returns 2Darray position as 2d point multiple, else -1
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\scripts\scr_ini_comparison_cleanup\scr_ini_comparison_cleanup.gml
+Converted description /// @description  scr_ini_comparison_cleanup(ini1, fin1, ini2, fin2, ix, i)/// @param ini1
+/// @param  fin1
+/// @param  ini2
+/// @param  fin2
+/// @param  ix
+/// @param  i
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\scripts\scr_add_rev\scr_add_rev.gml
+Converted description /// @description  scr_add_rev()
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\scripts\scr_set_rev\scr_set_rev.gml
+Converted description /// @description  scr_set_rev()
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\scripts\scr_push_rev\scr_push_rev.gml
+Converted description /// @description  scr_push_rev(instance id)/// @param instance id
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\scripts\scr_push_add_move\scr_push_add_move.gml
+Converted description /// @description  scr_push_add_move(instance id, dir x, dir y)/// @param instance id
+/// @param  dir x
+/// @param  dir y
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\scripts\scr_bmove_rev\scr_bmove_rev.gml
+Converted description /// @description  scr_bmove(instance id)/// @param instance id
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\scripts\scr_rotate_edges\scr_rotate_edges.gml
+Converted description /// @description  scr_rotate_edges();
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\scripts\scr_initialize_box_list\scr_initialize_box_list.gml
+Converted description /// @description  scr_initialize_box_list()
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\scripts\scr_bmove_restart\scr_bmove_restart.gml
+Converted description /// @description  scr_bmove_restart(instance id)/// @param instance id
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\scripts\scr_list_movex\scr_list_movex.gml
+Converted description /// @description  scr_list_movex(cdir)/// @param cdir
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\scripts\scr_list_movey\scr_list_movey.gml
+Converted description /// @description  scr_list_movey(cdir)/// @param cdir
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\scripts\scr_check_movey\scr_check_movey.gml
+Converted description /// @description  scr_check_movey(cdir)   - returns true if there are no obj_walls obstructing the path, false otherwise/// @param cdir
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\scripts\scr_check_movex\scr_check_movex.gml
+Converted description /// @description  scr_check_movex(cdir)   - returns true if there are no obj_walls obstructing the path, false otherwise/// @param cdir
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\scripts\scr_check_minmax\scr_check_minmax.gml
+Converted description /// @description  scr_check_minmax(sign, list) - returns value of minx/miny or maxx/maxy/// @param sign
+/// @param  list
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\scripts\scr_check_push\scr_check_push.gml
+Converted description /// @description  scr_check_push(dirx, diry, instance) - returns number of push objects in a row if the vertices should push obj_push/// @param dirx
+/// @param  diry
+/// @param  instance
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\scripts\scr_bmove\scr_bmove.gml
+Converted description /// @description  scr_bmove(instance id)/// @param instance id
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\scripts\scr_return_frame\scr_return_frame.gml
+Converted description /// @description  scr_return_frame()
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\scripts\scr_change_test_room\scr_change_test_room.gml
+Converted description /// @description  scr_change_test_room()
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\scripts\scr_add_solution\scr_add_solution.gml
+Converted description /// @description  scr_add_solution() - opens json test file and adds the current test_map to it
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\scripts\scr_get_solutions\scr_get_solutions.gml
+Converted description /// @description  scr_get_solutions() - returns the decoded json file as a map
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\scripts\scr_serialize_value\scr_serialize_value.gml
+Converted description /// @description scr_serialize_value(value, ds, pds)/// @param value
+/// @param  ds
+/// @param  pds
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\scripts\scr_deserialize_value\scr_deserialize_value.gml
+Converted description /// @description scr_deserialize_value(value, ds, pds)/// @param value
+/// @param  ds
+/// @param  pds
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\scripts\scr_delete_data\scr_delete_data.gml
+Converted description /// @description scr_delete_data(value)/// @param value
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\scripts\scr_get_types_map\scr_get_types_map.gml
+Converted description /// @description scr_get_types_map()
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\scripts\scr_get_ds_key\scr_get_ds_key.gml
+Converted description /// @description scr_get_ds_key(ds, type)/// @param ds
+/// @param  type
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\scripts\scr_ds_exists\scr_ds_exists.gml
+Converted description /// @description scr_ds_exists(ds, type)/// @param ds
+/// @param  type
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\scripts\scr_list_create\scr_list_create.gml
+Converted description /// @description scr_list_create()
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\scripts\scr_grid_create\scr_grid_create.gml
+Converted description /// @description scr_grid_create(width, height)/// @param width
+/// @param  height
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\scripts\scr_map_create\scr_map_create.gml
+Converted description /// @description scr_map_create()
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\scripts\scr_list_add_value\scr_list_add_value.gml
+Converted description /// @description scr_list_add_value(list, index, value)/// @param list
+/// @param  index
+/// @param  value
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\scripts\scr_map_add_value\scr_map_add_value.gml
+Converted description /// @description scr_map_add_value(map, key, value)/// @param map
+/// @param  key
+/// @param  value
+
+GameMaker Studio 1 font texture has been backed up at C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\fonts\fnt_moves\fnt_moves.gms1.png
+GameMaker Studio 1 font texture has been backed up at C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\fonts\fnt_options\fnt_options.gms1.png
+GameMaker Studio 1 font texture has been backed up at C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\fonts\fnt_small\fnt_small.gms1.png
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_draw\Create_0.gml
+Converted description /// @description  Initalizing
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_draw\Alarm_3.gml
+Converted description /// @description  Waiting Movement Timer
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_draw\Alarm_2.gml
+Converted description /// @description  Reversing Timer
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_draw\Alarm_1.gml
+Converted description /// @description  Waiting/Reversing Timer
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_draw\Alarm_0.gml
+Converted description /// @description  Win Timer
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_draw\Step_2.gml
+Converted description /// @description  Reversing
+String not found: ConversionLog_ConvertedString 3 'E' "E"
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_draw\Step_0.gml
+Converted description /// @description  Movement
+String not found: ConversionLog_ConvertedString 80 'Q' "Q"
+String not found: ConversionLog_ConvertedString 95 'W' "W"
+String not found: ConversionLog_ConvertedString 101 'W' "W"
+String not found: ConversionLog_ConvertedString 105 'W' "W"
+String not found: ConversionLog_ConvertedString 111 'R' "R"
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_draw\Draw_72.gml
+Converted description /// @description  Drawing Border
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_draw\Draw_0.gml
+Converted description /// @description  Drawing Box
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_block\Draw_0.gml
+Converted description /// @description  Drawing Self
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_border\Draw_0.gml
+Converted description /// @description 
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_win\Draw_0.gml
+Converted description /// @description  Drawing self
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_push\Create_0.gml
+Converted description /// @description  Initializing
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_push\Step_2.gml
+Converted description /// @description  Adding Move_list
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_push\Step_1.gml
+Converted description /// @description  Setting Current x/y
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_push\Step_0.gml
+Converted description /// @description  Commands
+String not found: ConversionLog_ConvertedString 2 'R' "R"
+String not found: ConversionLog_ConvertedString 8 'E' "E"
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_push\Draw_0.gml
+Converted description /// @description  Drawing Self
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_bpush\Create_0.gml
+Converted description /// @description  Initializing
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_bpush\Step_2.gml
+Converted description /// @description  Adding Move_list
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_bpush\Step_1.gml
+Converted description /// @description  Setting Current x/y
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_bpush\Step_0.gml
+Converted description /// @description  Commands
+String not found: ConversionLog_ConvertedString 2 'R' "R"
+String not found: ConversionLog_ConvertedString 8 'E' "E"
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_bpush\Draw_0.gml
+Converted description /// @description  Drawing Self
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_switch\Create_0.gml
+Converted description /// @description  Initializing
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_switch\Step_0.gml
+Converted description /// @description  Switching
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_switch\Draw_72.gml
+Converted description /// @description  Drawing self
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_wall\Draw_0.gml
+Converted description /// @description  Drawing Self
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_persistent\Create_0.gml
+Converted description /// @description  Initializing
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_persistent\Other_5.gml
+Converted description /// @description  Adding Room Solution
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_persistent\Other_4.gml
+Converted builtin - line 3: background_colour = c_black -> __background_set_colour( c_black )
+Converted builtin - line 4: background_showcolour = true -> __background_set_showcolour( true )
+Converted description /// @description  Background
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_persistent\Draw_0.gml
+Converted description /// @description  DEBUG
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_test_rm\Create_0.gml
+Converted description /// @description  Initializing
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_test_rm\Step_0.gml
+Converted description /// @description  Changing Room/Frame
+String not found: ConversionLog_ConvertedString 4 'E' "E"
+String not found: ConversionLog_ConvertedString 10 'W' "W"
+String not found: ConversionLog_ConvertedString 16 'S' "S"
+String not found: ConversionLog_ConvertedString 22 'D' "D"
+String not found: ConversionLog_ConvertedString 28 'U' "U"
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_test_rm\Draw_0.gml
+Converted description /// @description  Drawing Objects + Border
+String not found: ConversionLog_ConvertedString 51 'M' "M"
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_bup\Create_0.gml
+Converted description /// @description  Initializing
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_bup\Step_0.gml
+Converted description /// @description  Movement/Creation
+String not found: ConversionLog_ConvertedString 7 'E' "E"
+String not found: ConversionLog_ConvertedString 11 'R' "R"
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_bup\Draw_0.gml
+Converted description /// @description  Drawing Self
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_bright\Create_0.gml
+Converted description /// @description  Initializing
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_bright\Step_0.gml
+Converted description /// @description  Movement/Creation
+String not found: ConversionLog_ConvertedString 7 'E' "E"
+String not found: ConversionLog_ConvertedString 11 'R' "R"
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_bright\Draw_0.gml
+Converted description /// @description  Drawing Self
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_bdown\Create_0.gml
+Converted description /// @description  Initializing
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_bdown\Step_0.gml
+Converted description /// @description  Movement/Creation
+String not found: ConversionLog_ConvertedString 7 'E' "E"
+String not found: ConversionLog_ConvertedString 11 'R' "R"
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_bdown\Draw_0.gml
+Converted description /// @description  Drawing Self
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_bleft\Create_0.gml
+Converted description /// @description  Initializing
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_bleft\Step_0.gml
+Converted description /// @description  Movement/Creation
+String not found: ConversionLog_ConvertedString 7 'E' "E"
+String not found: ConversionLog_ConvertedString 11 'R' "R"
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_bleft\Draw_0.gml
+Converted description /// @description  Drawing Self
+
+Converting GML script: C:\Users\Elijah\Desktop\Elijah\GameMaker-Studio\Box Edit Game.gmx\mvc\objects\obj_bmove\Step_2.gml
+Converted description /// @description  Destroying self
+
+Game speed set to 60
+Added compatibility script 'background\__background_set_colour.gml'
+Added compatibility script 'background\__background_set_showcolour.gml'
+Added compatibility script 'instance\instance_create.gml'
+Added compatibility script 'object\object_get_depth.gml'
+Added compatibility script 'background\__init_background.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script 'background\__background_get_colour_element.gml'
+Added compatibility script 'background\__background_set_element.gml'
+Added compatibility script '__global_object_depths.gml'

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_set_rev",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_set_rev",
+  "parent":{
+    "name":"Reversing",
+    "path":"folders/Scripts/Reversing.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
